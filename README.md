@@ -7,4 +7,7 @@ Learn Image processing using
 # Samples
 
 ## 1. geom.py
-Demonstrates rotation and perspective transformation of an image  
+Demonstrates rotation and perspective transformation of an image
+
+## 2. blend.py
+Demonstrates alpha blending two images
