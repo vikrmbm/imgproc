@@ -1,6 +1,10 @@
-# imgproc
+# Image Processing
 
-Exercises from Python image processing
+Learn Image processing using
+* OpenCV
+* Python
 
-# geom.py
+# Samples
+
+## 1. geom.py
 Demonstrates rotation and perspective transformation of an image  
